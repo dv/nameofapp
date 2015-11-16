@@ -1,6 +1,6 @@
 == README
 
-This README is about an app I have created for my project on CareerFoundry.com
+This README is about an app I am currently creating for my project on CareerFoundry.com
 
 Things you may want to cover:
 
