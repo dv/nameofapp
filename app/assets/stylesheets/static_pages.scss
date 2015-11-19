@@ -1,3 +1,94 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+//-------------A L L - P A G E S-------------//
+body{
+  font-size:1.4em;  
+  color:#333;
+}
+
+.container {
+  width:90%;
+}
+
+.container-fluid {
+  width:80%;
+}
+
+//MAIN-PAGE-BRAND-DESIGN -------------------------------------
+.main-page-brand {
+  padding-top:30px;
+  height:210px;
+  background-color:rgba(0,0,0,0.05);
+  box-shadow:0px 0px 1px 0px grey;
+}
+
+.Project-atlas-title { 
+  text-align:center;
+  font-family:'Lobster', cursive;
+  letter-spacing:10px;
+  font-size:4em;
+  margin:0 0 20px 0;
+  font-weight:bolder;
+}
+
+.Welcome-sub-header {
+  text-align:center;
+  font-family:"Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing:2px;
+  font-size:1em;
+}
+
+#atlas-pic {
+  width:80px;
+  height:80px; 
+  margin:-10px -15px 0 -20px;
+}
+
+//NAVIGATION-BAR -------------------------------------
+.navbar-inverse {
+  margin-bottom:0;
+}
+
+.nav-links li {
+  list-style:none;
+}
+
+.nav-links {
+  padding-left:0px;
+}
+
+.navbar-brand {
+  font-family:'Lobster', cursive;
+  font-size:2em;
+  padding-left:0;
+  letter-spacing:2px;
+}
+
+.navbar-inverse .navbar-brand {
+  color:white;
+}
+
+//FOOTER -------------------------------------
+
+.main-footer{
+  text-align:center;
+  margin-top:100px;
+  height:100px;
+  background-color:rgba(0,0,0,0.05);
+}
+
+.brand-logo-footer {
+  font-family:'Lobster', cursive;
+  font-size:3em;
+}
+
+.footer-copyright {
+  font-family:"Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+//-------------A L L - P A G E S-------------//
+
+
