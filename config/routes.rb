@@ -1,4 +1,14 @@
 Rails.application.routes.draw do
+  get 'static_pages/Sneakers'
+
+  get 'static_pages/accessories'
+
+  get 'static_pages/mensclothing'
+
+  get 'static_pages/womensclothing'
+
+  get 'static_pages/childrensclothing'
+
   get 'static_pages/about'
 
   get 'static_pages/contact'
