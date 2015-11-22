@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'static_pages/footwear'
+
   get 'static_pages/signup'
 
   get 'static_pages/login'
