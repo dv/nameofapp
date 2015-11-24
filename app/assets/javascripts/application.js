@@ -16,6 +16,10 @@
 //= require_tree .
 
 $( document ).ready(function() {
+  
+
+//LOGIN DETAILS
+  
 var attempt = 3; // Variable to count number of attempts.
 // Below function Executes on click of login button.
 function validate(){
@@ -38,4 +42,12 @@ return false;
 }
 }
 }
+  
+  
+  
+  
+  
+  
+  
+  
   });

@@ -87,14 +87,15 @@ body{
 
 .main-footer{
   text-align:center;
-  margin-top:100px;
+  margin-top:10px;
   height:100px;
   background-color:rgba(0,0,0,0.05);
 }
 
-.brand-logo-footer {
+.footerlogo {
   font-family:'Lobster', cursive;
   font-size:3em;
+  padding:20px 20px 10px 20px;
 }
 
 .footer-copyright {
@@ -126,13 +127,13 @@ margin-bottom: 40px;
 
 
 div.main-login{
-width: 250px;
-padding: 10px 30px 25px;
-border: 2px solid gray;
-border-radius: 10px;
-font-family: raleway;
-float:left;
-margin: 100px 0 0 0;
+width:250px;
+margin:50px auto;
+padding:10px 30px 25px;
+border:2px solid gray;
+border-radius:10px;
+font-family:raleway;
+
 }
 
 input[type=text],input[type=password]{
